@@ -1,2 +1,2 @@
 ## Python Projects 
-## Full Stack project in python
+## Full Stack project in Python
