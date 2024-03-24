@@ -11,6 +11,7 @@
 - 🐍 Proficient in Python and its frameworks, including Django and Flask. Also adept at creating graphical user interfaces using Tkinter and visualizing data with Matplotlib.
 - 🌐 Well-versed in web technologies such as HTML, CSS, and JavaScript, with a focus on the Express framework for Node.js.
 - 💡 Experienced in C, C++, and Java, leveraging their strengths for various programming challenges.
+- 📊 Proficient in analyzing and exploring data using Python libraries such as pandas, NumPy, Matplotlib, and scikit-learn, with a keen focus on deriving actionable insights through data science techniques.
 - 🧠 Delving into the realms of machine learning, constantly exploring and experimenting with cutting-edge techniques and frameworks.
 - 🔍 Familiar with SQL databases, including MySQL and PostgreSQL, for efficient data management.
 - 🔧 Proficient in version control using Git and experienced in containerization with Docker.
